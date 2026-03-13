@@ -1,4 +1,14 @@
 ## Hi there 👋
+Im Caesar, a poli sci and comms student at uOttawa.
+
+I'm currently working on building a portfolio website and learning about Github Copilot skills, AI Workflow Automatizations and coding.
+
+Im currently focusing on small scale projects to put into practice my theorical knowledge. I'll be uplaoding small projects, experiments, and things I'm currently working on.
+
+Fun Facts:
+- I'm an art film lover
+- I believe in the future of Bitcoin
+- Im passionate of revolutionary art
 
 <!--
 **caesarpdlg/caesarpdlg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
